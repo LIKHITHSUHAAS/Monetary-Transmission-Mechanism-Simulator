@@ -24,8 +24,6 @@ An **interactive web app** that lets you explore how monetary policy tools influ
 3. Observe how the economy responds across different channels.
 4. Experiment with combinations to see different outcomes.
 
-![App Screenshot](link_to_screenshot_image)
-
 ---
 
 ## ⚙️ Built With
